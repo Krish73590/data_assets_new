@@ -1,0 +1,103 @@
+2024-12-24 18:25:20,670 - data_asset - INFO - Started!!!
+2024-12-24 18:25:20,672 - data_asset - INFO - 1) Started Processing table: Amazon_japan_seller 
+2024-12-24 18:27:30,839 - data_asset - INFO - Started!!!
+2024-12-24 18:27:30,840 - data_asset - INFO - 1) Started Processing table: r1_contact_2021 
+2024-12-24 18:31:36,670 - data_asset - INFO - 1) Completed Processing table: r1_contact_2021 - End time: 2024-12-24 18:31:36
+2024-12-24 18:31:36,688 - data_asset - INFO - Time taken for table r1_contact_2021: 245.82560205459595 seconds
+2024-12-24 18:31:47,550 - data_asset - INFO - 2) Started Processing table: r20_contact 
+2024-12-24 18:32:08,739 - data_asset - INFO - 2) Completed Processing table: r20_contact - End time: 2024-12-24 18:32:08
+2024-12-24 18:32:08,740 - data_asset - INFO - Time taken for table r20_contact: 21.189711093902588 seconds
+2024-12-24 18:32:08,825 - data_asset - INFO - 3) Started Processing table: r20_contact_paid 
+2024-12-24 18:32:20,005 - data_asset - INFO - 3) Completed Processing table: r20_contact_paid - End time: 2024-12-24 18:32:20
+2024-12-24 18:32:20,005 - data_asset - INFO - Time taken for table r20_contact_paid: 11.180030345916748 seconds
+2024-12-24 18:32:20,055 - data_asset - INFO - 4) Started Processing table: rags_one_mobile_details 
+2024-12-24 18:33:00,812 - data_asset - INFO - 4) Completed Processing table: rags_one_mobile_details - End time: 2024-12-24 18:33:00
+2024-12-24 18:33:00,814 - data_asset - INFO - Time taken for table rags_one_mobile_details: 40.75704026222229 seconds
+2024-12-24 18:33:00,970 - data_asset - INFO - 5) Started Processing table: resume 
+2024-12-24 18:33:06,089 - data_asset - INFO - 5) Completed Processing table: resume - End time: 2024-12-24 18:33:06
+2024-12-24 18:33:06,089 - data_asset - INFO - Time taken for table resume: 5.118792295455933 seconds
+2024-12-24 18:33:06,113 - data_asset - INFO - 6) Started Processing table: tbl_cb_organizations_people 
+2024-12-24 18:33:32,917 - data_asset - INFO - 6) Completed Processing table: tbl_cb_organizations_people - End time: 2024-12-24 18:33:32
+2024-12-24 18:33:32,918 - data_asset - INFO - Time taken for table tbl_cb_organizations_people: 26.804115056991577 seconds
+2024-12-24 18:33:33,042 - data_asset - INFO - 7) Started Processing table: aws_delivered 
+2024-12-24 18:33:36,084 - data_asset - INFO - 7) Completed Processing table: aws_delivered - End time: 2024-12-24 18:33:36
+2024-12-24 18:33:36,085 - data_asset - INFO - Time taken for table aws_delivered: 3.0416195392608643 seconds
+2024-12-24 18:33:36,099 - data_asset - INFO - 8) Started Processing table: tbl_merge_third_party_contact 
+2024-12-24 18:37:37,288 - data_asset - INFO - 8) Completed Processing table: tbl_merge_third_party_contact - End time: 2024-12-24 18:37:37
+2024-12-24 18:37:37,292 - data_asset - INFO - Time taken for table tbl_merge_third_party_contact: 241.18858528137207 seconds
+2024-12-24 18:37:39,917 - data_asset - INFO - 9) Started Processing table: tbl_tp_apollo_contact 
+2024-12-24 18:38:11,813 - data_asset - INFO - 9) Completed Processing table: tbl_tp_apollo_contact - End time: 2024-12-24 18:38:11
+2024-12-24 18:38:11,813 - data_asset - INFO - Time taken for table tbl_tp_apollo_contact: 31.894805669784546 seconds
+2024-12-24 18:38:11,931 - data_asset - INFO - 10) Started Processing table: tbl_tp_lusha_2024 
+2024-12-24 18:38:19,819 - data_asset - INFO - 10) Completed Processing table: tbl_tp_lusha_2024 - End time: 2024-12-24 18:38:19
+2024-12-24 18:38:19,819 - data_asset - INFO - Time taken for table tbl_tp_lusha_2024: 7.888631582260132 seconds
+2024-12-24 18:38:19,850 - data_asset - INFO - 11) Started Processing table: AWS_List_Purchase_2019 
+2024-12-24 18:38:21,006 - data_asset - INFO - 11) Completed Processing table: AWS_List_Purchase_2019 - End time: 2024-12-24 18:38:21
+2024-12-24 18:38:21,007 - data_asset - INFO - Time taken for table AWS_List_Purchase_2019: 1.156646728515625 seconds
+2024-12-24 18:38:21,011 - data_asset - INFO - 12) Started Processing table: AWS_Data_2019 
+2024-12-24 18:38:23,499 - data_asset - INFO - 12) Completed Processing table: AWS_Data_2019 - End time: 2024-12-24 18:38:23
+2024-12-24 18:38:23,500 - data_asset - INFO - Time taken for table AWS_Data_2019: 2.4867844581604004 seconds
+2024-12-24 18:38:23,508 - data_asset - INFO - 13) Started Processing table: Amazon_EU 
+2024-12-24 18:38:24,485 - data_asset - INFO - 13) Completed Processing table: Amazon_EU - End time: 2024-12-24 18:38:24
+2024-12-24 18:38:24,485 - data_asset - INFO - Time taken for table Amazon_EU: 0.9773623943328857 seconds
+2024-12-24 18:38:24,489 - data_asset - INFO - 14) Started Processing table: Amazon_ExploreExperiences 
+2024-12-24 18:38:25,485 - data_asset - INFO - 14) Completed Processing table: Amazon_ExploreExperiences - End time: 2024-12-24 18:38:25
+2024-12-24 18:38:25,493 - data_asset - INFO - Time taken for table Amazon_ExploreExperiences: 0.996110200881958 seconds
+2024-12-24 18:38:25,494 - data_asset - INFO - 15) Started Processing table: Amazon_Home_Services 
+2024-12-24 18:38:26,306 - data_asset - ERROR - Error connecting to source database on server '192.168.3.243': column "Company Name " does not exist
+LINE 1: ...n" ,  "Industry" ,  "Employee Size" ,  "State" ,  "Company N...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "Amazon_Home_Services.Company Name".
+
+2024-12-24 18:38:26,307 - data_asset - INFO - 16) Started Processing table: Amazon_Marketplace_Spain 
+2024-12-24 18:38:27,151 - data_asset - INFO - 16) Completed Processing table: Amazon_Marketplace_Spain - End time: 2024-12-24 18:38:27
+2024-12-24 18:38:27,152 - data_asset - INFO - Time taken for table Amazon_Marketplace_Spain: 0.8438940048217773 seconds
+2024-12-24 18:38:27,153 - data_asset - INFO - 17) Started Processing table: Amazon_Pay_US 
+2024-12-24 18:38:28,848 - data_asset - INFO - 17) Completed Processing table: Amazon_Pay_US - End time: 2024-12-24 18:38:28
+2024-12-24 18:38:28,855 - data_asset - INFO - Time taken for table Amazon_Pay_US: 1.6944870948791504 seconds
+2024-12-24 18:38:28,859 - data_asset - INFO - 18) Started Processing table: Amazon_Payments_2019_1 
+2024-12-24 18:38:30,360 - data_asset - INFO - 18) Completed Processing table: Amazon_Payments_2019_1 - End time: 2024-12-24 18:38:30
+2024-12-24 18:38:30,361 - data_asset - INFO - Time taken for table Amazon_Payments_2019_1: 1.501495599746704 seconds
+2024-12-24 18:38:30,364 - data_asset - INFO - 19) Started Processing table: Amazon_japan_seller 
+2024-12-24 18:38:33,269 - data_asset - INFO - 19) Completed Processing table: Amazon_japan_seller - End time: 2024-12-24 18:38:33
+2024-12-24 18:38:33,269 - data_asset - INFO - Time taken for table Amazon_japan_seller: 2.9053759574890137 seconds
+2024-12-24 18:38:33,274 - data_asset - INFO - 20) Started Processing table: Amazon_Payments_2019_2 
+2024-12-24 18:38:34,391 - data_asset - INFO - 20) Completed Processing table: Amazon_Payments_2019_2 - End time: 2024-12-24 18:38:34
+2024-12-24 18:38:34,391 - data_asset - INFO - Time taken for table Amazon_Payments_2019_2: 1.1170125007629395 seconds
+2024-12-24 18:38:34,395 - data_asset - INFO - 21) Started Processing table: BCP_500_final_Merge 
+2024-12-24 18:38:35,345 - data_asset - INFO - 21) Completed Processing table: BCP_500_final_Merge - End time: 2024-12-24 18:38:35
+2024-12-24 18:38:35,346 - data_asset - INFO - Time taken for table BCP_500_final_Merge: 0.9502110481262207 seconds
+2024-12-24 18:38:35,347 - data_asset - INFO - 22) Started Processing table: DevFactory_1 
+2024-12-24 18:38:36,739 - data_asset - INFO - 22) Completed Processing table: DevFactory_1 - End time: 2024-12-24 18:38:36
+2024-12-24 18:38:36,740 - data_asset - INFO - Time taken for table DevFactory_1: 1.392251968383789 seconds
+2024-12-24 18:38:36,744 - data_asset - INFO - 23) Started Processing table: DevFactory_3 
+2024-12-24 18:38:37,616 - data_asset - INFO - 23) Completed Processing table: DevFactory_3 - End time: 2024-12-24 18:38:37
+2024-12-24 18:38:37,617 - data_asset - INFO - Time taken for table DevFactory_3: 0.8728547096252441 seconds
+2024-12-24 18:38:37,618 - data_asset - INFO - 24) Started Processing table: DroneDeploy_DataVoice 
+2024-12-24 18:38:38,623 - data_asset - INFO - 24) Completed Processing table: DroneDeploy_DataVoice - End time: 2024-12-24 18:38:38
+2024-12-24 18:38:38,625 - data_asset - INFO - Time taken for table DroneDeploy_DataVoice: 1.005265712738037 seconds
+2024-12-24 18:38:38,628 - data_asset - INFO - 25) Started Processing table: Elastic_US 
+2024-12-24 18:38:40,193 - data_asset - INFO - 25) Completed Processing table: Elastic_US - End time: 2024-12-24 18:38:40
+2024-12-24 18:38:40,193 - data_asset - INFO - Time taken for table Elastic_US: 1.5654056072235107 seconds
+2024-12-24 18:38:40,196 - data_asset - INFO - 26) Started Processing table: Fast_Radius 
+2024-12-24 18:38:41,148 - data_asset - INFO - 26) Completed Processing table: Fast_Radius - End time: 2024-12-24 18:38:41
+2024-12-24 18:38:41,150 - data_asset - INFO - Time taken for table Fast_Radius: 0.9523229598999023 seconds
+2024-12-24 18:38:41,151 - data_asset - INFO - 27) Started Processing table: KFB_Installer_US 
+2024-12-24 18:38:42,073 - data_asset - INFO - 27) Completed Processing table: KFB_Installer_US - End time: 2024-12-24 18:38:42
+2024-12-24 18:38:42,073 - data_asset - INFO - Time taken for table KFB_Installer_US: 0.9216947555541992 seconds
+2024-12-24 18:38:42,075 - data_asset - INFO - 28) Started Processing table: KFB_World 
+2024-12-24 18:38:42,996 - data_asset - INFO - 28) Completed Processing table: KFB_World - End time: 2024-12-24 18:38:42
+2024-12-24 18:38:42,997 - data_asset - INFO - Time taken for table KFB_World: 0.9203915596008301 seconds
+2024-12-24 18:38:42,998 - data_asset - INFO - 29) Started Processing table: Solarwinds_Data 
+2024-12-24 18:38:43,849 - data_asset - INFO - 29) Completed Processing table: Solarwinds_Data - End time: 2024-12-24 18:38:43
+2024-12-24 18:38:43,849 - data_asset - INFO - Time taken for table Solarwinds_Data: 0.8511326313018799 seconds
+2024-12-24 18:38:43,850 - data_asset - INFO - 30) Started Processing table: amazon_bcp_final_merge 
+2024-12-24 18:39:00,162 - data_asset - INFO - 30) Completed Processing table: amazon_bcp_final_merge - End time: 2024-12-24 18:39:00
+2024-12-24 18:39:00,162 - data_asset - INFO - Time taken for table amazon_bcp_final_merge: 16.31204319000244 seconds
+2024-12-24 18:39:00,229 - data_asset - INFO - 31) Started Processing table: fundbox 
+2024-12-24 18:39:01,549 - data_asset - INFO - 31) Completed Processing table: fundbox - End time: 2024-12-24 18:39:01
+2024-12-24 18:39:01,550 - data_asset - INFO - Time taken for table fundbox: 1.3196237087249756 seconds
+2024-12-24 18:39:01,551 - data_asset - INFO - 32) Started Processing table: aws_delivered_all_66k 
+2024-12-24 18:39:05,041 - data_asset - INFO - 32) Completed Processing table: aws_delivered_all_66k - End time: 2024-12-24 18:39:05
+2024-12-24 18:39:05,042 - data_asset - INFO - Time taken for table aws_delivered_all_66k: 3.4897873401641846 seconds
+2024-12-24 18:39:05,053 - data_asset - INFO - 33) Started Processing table: dnb_company 
